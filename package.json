@@ -1,0 +1,22 @@
+{
+  "name": "node_prac",
+  "version": "1.0.0",
+  "description": "This is the practise section",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Manjunath"
+  },
+  "keywords": [
+    "m"
+  ],
+  "author": "manjunath",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
